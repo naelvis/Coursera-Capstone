@@ -1,0 +1,391 @@
+,Latitude,Longitude,Neighbourhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,48.0827,11.4588,3,8,Supermarket,Drugstore,Forest,Italian Restaurant,Miscellaneous Shop,ATM,Opera House,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+1,48.0827,11.4737,4,28,Bakery,Market,Hotel,Pool,Pharmacy,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+2,48.0827,11.4886,5,18,Italian Restaurant,Ice Cream Shop,Tennis Court,Bakery,Ramen Restaurant,Gas Station,Food & Drink Shop,BBQ Joint,Pizza Place,Drugstore
+3,48.0827,11.503499999999999,6,0,BBQ Joint,Bus Stop,Bakery,Gas Station,Pool,Drugstore,Fast Food Restaurant,Organic Grocery,Skate Park,Soccer Field
+4,48.0827,11.5184,7,26,Movie Theater,Bus Stop,Pastry Shop,Light Rail Station,Trail,Farmers Market,German Restaurant,Supermarket,Deli / Bodega,Italian Restaurant
+5,48.0827,11.5333,8,30,Bus Stop,German Restaurant,Ice Cream Shop,Asian Restaurant,Farmers Market,Boat Rental,Bank,Bakery,Lake,Movie Theater
+6,48.0827,11.5482,9,30,German Restaurant,Tram Station,Boat Rental,Lake,Trattoria/Osteria,Bus Stop,Lottery Retailer,Food & Drink Shop,Nightclub,Outlet Store
+7,48.0827,11.5631,10,25,German Restaurant,Bus Stop,Moving Target,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+8,48.0827,11.578,11,17,Athletics & Sports,ATM,Pastry Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+9,48.0827,11.5929,12,27,Intersection,Modern European Restaurant,Gas Station,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+10,48.0827,11.607800000000001,13,3,Harbor / Marina,Bakery,Gym,Gas Station,Light Rail Station,Greek Restaurant,Supermarket,Asian Restaurant,Optical Shop,Outlet Store
+11,48.0827,11.6227,14,8,Supermarket,Indian Restaurant,Food & Drink Shop,Café,Lottery Retailer,Optical Shop,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+12,48.0827,11.6376,15,27,Coffee Shop,German Restaurant,Snack Place,Trail,Pharmacy,Restaurant,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+13,48.0827,11.6525,16,28,Greek Restaurant,Bus Stop,Hotel,Athletics & Sports,Park,Restaurant,Lottery Retailer,Nightclub,Noodle House,Paper / Office Supplies Store
+14,48.0827,11.6674,17,0,Bus Stop,Forest,Building,Soccer Field,Construction & Landscaping,Hotel,Liquor Store,Greek Restaurant,Supermarket,Beer Garden
+15,48.0827,11.6823,18,25,Bus Stop,Forest,Greek Restaurant,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+16,48.0827,11.6972,19,8,Supermarket,Motorcycle Shop,Pet Store,Bus Stop,ATM,Opera House,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+17,48.090057894736844,11.4141,20,8,Supermarket,Pastry Shop,Pharmacy,German Restaurant,ATM,Office,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+18,48.090057894736844,11.4439,22,13,Entertainment Service,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+19,48.090057894736844,11.4588,23,26,Italian Restaurant,Drugstore,Supermarket,Pizza Place,Forest,Chinese Restaurant,Café,Kebab Restaurant,Organic Grocery,Palace
+20,48.090057894736844,11.4737,24,18,Kebab Restaurant,Bus Stop,Sports Club,Café,Pool,Hotel,Chinese Restaurant,Plaza,Farmers Market,Pizza Place
+21,48.090057894736844,11.4886,25,3,Bus Stop,Gas Station,Farmers Market,Bakery,Supermarket,German Restaurant,Pharmacy,Drugstore,Castle,Pizza Place
+22,48.090057894736844,11.503499999999999,26,3,Supermarket,Gym / Fitness Center,Bus Stop,Bakery,Asian Restaurant,Furniture / Home Store,Fast Food Restaurant,Martial Arts School,Lounge,Modern European Restaurant
+23,48.090057894736844,11.5184,27,28,Bus Stop,Hotel,Doner Restaurant,Greek Restaurant,Supermarket,Drugstore,Trail,Café,Restaurant,Trattoria/Osteria
+24,48.090057894736844,11.5333,28,8,Supermarket,German Restaurant,Tennis Court,Gym,Light Rail Station,Drugstore,Bus Stop,Café,Optical Shop,Outdoors & Recreation
+25,48.090057894736844,11.5482,29,27,Zoo Exhibit,German Restaurant,Beer Garden,Tram Station,Playground,Campground,Surf Spot,Golf Course,Trail,Trattoria/Osteria
+26,48.090057894736844,11.5631,30,26,Supermarket,Plaza,Tram Station,Bus Stop,Italian Restaurant,German Restaurant,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+27,48.090057894736844,11.578,31,19,Bus Stop,Plaza,Supermarket,Metro Station,Athletics & Sports,ATM,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+28,48.090057894736844,11.5929,32,27,Movie Theater,Shipping Store,Gym,Fast Food Restaurant,Music Venue,Nature Preserve,Outlet Store,Outdoors & Recreation,Music School,Music Store
+29,48.090057894736844,11.607800000000001,33,28,Ice Cream Shop,Plaza,Bakery,Light Rail Station,Greek Restaurant,Shipping Store,Trattoria/Osteria,Supermarket,Hotel,Newsstand
+30,48.090057894736844,11.6227,34,26,Supermarket,Ice Cream Shop,Turkish Restaurant,Food & Drink Shop,German Restaurant,Gym / Fitness Center,Light Rail Station,Brewery,Playground,Nudist Beach
+31,48.090057894736844,11.6376,35,26,Supermarket,Hotel,German Restaurant,Clothing Store,Light Rail Station,Restaurant,Turkish Restaurant,Bakery,Metro Station,ATM
+32,48.090057894736844,11.6525,36,28,Coffee Shop,Hotel,Auto Dealership,Light Rail Station,Bus Stop,Restaurant,Plaza,Skate Park,Pizza Place,Diner
+33,48.090057894736844,11.6674,37,28,Lottery Retailer,Skate Park,Greek Restaurant,Hotel,Soccer Field,Bus Stop,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+34,48.090057894736844,11.6823,38,12,Forest,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+35,48.090057894736844,11.6972,39,27,Butcher,ATM,RV Park,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+36,48.097415789473686,11.4141,40,27,Italian Restaurant,Sports Club,Beer Garden,German Restaurant,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+37,48.097415789473686,11.429,41,7,Gas Station,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+38,48.097415789473686,11.4588,43,18,Bakery,Chinese Restaurant,Café,Kebab Restaurant,Performing Arts Venue,Pastry Shop,Park,Paper / Office Supplies Store,Palace,Outlet Store
+39,48.097415789473686,11.4737,44,1,German Restaurant,Sports Club,Concert Hall,Chinese Restaurant,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+40,48.097415789473686,11.4886,45,26,Supermarket,Bowling Alley,Castle,Bakery,Sports Club,Italian Restaurant,Metro Station,Mexican Restaurant,Plaza,Concert Hall
+41,48.097415789473686,11.503499999999999,46,3,Supermarket,Auto Dealership,Bus Stop,Gym / Fitness Center,Hotel,Pizza Place,Drugstore,Bowling Alley,Garden Center,Modern European Restaurant
+42,48.097415789473686,11.5184,47,3,Supermarket,Hotel,Drugstore,Pizza Place,Ice Cream Shop,Café,Greek Restaurant,Pet Store,Bank,Bakery
+43,48.097415789473686,11.5333,48,26,Supermarket,Gym,Bakery,Bus Stop,Organic Grocery,Hotel,Drugstore,Italian Restaurant,Greek Restaurant,German Restaurant
+44,48.097415789473686,11.5482,49,27,Zoo Exhibit,German Restaurant,Supermarket,Convenience Store,Beer Garden,Trail,Playground,Café,Italian Restaurant,Bakery
+45,48.097415789473686,11.5631,50,26,Zoo Exhibit,Supermarket,Plaza,Tram Station,German Restaurant,Beer Garden,Convenience Store,Sports Club,Bus Stop,Thai Restaurant
+46,48.097415789473686,11.578,51,30,Bus Stop,Soccer Field,Ice Cream Shop,Gym Pool,Sports Club,German Restaurant,Metro Station,Taverna,Gym,Sporting Goods Shop
+47,48.097415789473686,11.5929,52,30,Movie Theater,Gym,Bus Stop,German Restaurant,Paper / Office Supplies Store,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+48,48.097415789473686,11.607800000000001,53,0,Bus Stop,Bakery,Hotel,Light Rail Station,Plaza,Soccer Field,Supermarket,Newsstand,Nightclub,Palace
+49,48.097415789473686,11.6227,54,26,German Restaurant,Bus Stop,Italian Restaurant,Bakery,Ice Cream Shop,Plaza,Supermarket,Organic Grocery,Bank,Light Rail Station
+50,48.097415789473686,11.6376,55,3,Bakery,Gym / Fitness Center,Clothing Store,Asian Restaurant,Ice Cream Shop,Supermarket,Bank,German Restaurant,Donut Shop,Bookstore
+51,48.097415789473686,11.6525,56,3,Gym / Fitness Center,Clothing Store,Asian Restaurant,Hotel,Supermarket,Bus Stop,Ice Cream Shop,Shoe Store,Big Box Store,Sushi Restaurant
+52,48.097415789473686,11.6674,57,6,Hotel,Bakery,Supermarket,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+53,48.097415789473686,11.6823,58,30,Park,Bus Stop,Lake,Memorial Site,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+54,48.097415789473686,11.6972,59,5,Home Service,Business Service,Park,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+55,48.10477368421053,11.4141,60,28,Ice Cream Shop,Hotel,German Restaurant,Light Rail Station,Restaurant,Drugstore,Pharmacy,Café,Sporting Goods Shop,Supermarket
+56,48.10477368421053,11.429,61,26,German Restaurant,Supermarket,Sporting Goods Shop,Hotel,Pastry Shop,Food & Drink Shop,Restaurant,Music Venue,Office,Outdoor Supply Store
+57,48.10477368421053,11.4439,62,26,Park,Bus Stop,Indian Restaurant,Sports Bar,Italian Restaurant,German Restaurant,Supermarket,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+58,48.10477368421053,11.4588,63,25,Bus Stop,Home Service,Hotel,German Restaurant,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+59,48.10477368421053,11.4737,64,0,Bus Stop,Bakery,German Restaurant,Steakhouse,Supermarket,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+60,48.10477368421053,11.4886,65,30,German Restaurant,Construction & Landscaping,Café,Plaza,Bus Stop,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+61,48.10477368421053,11.503499999999999,66,26,Supermarket,Forest,Bridal Shop,Gym / Fitness Center,Italian Restaurant,Gas Station,Bus Stop,Opera House,Outlet Store,Outdoors & Recreation
+62,48.10477368421053,11.5184,67,0,Bus Stop,Ice Cream Shop,Rental Car Location,Soccer Field,Forest,Supermarket,Greek Restaurant,Bank,Liquor Store,Tunnel
+63,48.10477368421053,11.5333,68,3,Hotel,Italian Restaurant,Bakery,Pizza Place,Drugstore,Organic Grocery,Supermarket,Gym / Fitness Center,Design Studio,Music Store
+64,48.10477368421053,11.5482,69,18,German Restaurant,Zoo Exhibit,Italian Restaurant,Convenience Store,BBQ Joint,Bakery,Plaza,Park,Supermarket,Trail
+65,48.10477368421053,11.5631,70,0,Bus Stop,Beer Garden,Bakery,Zoo Exhibit,Rest Area,Gastropub,Sports Club,German Restaurant,Café,Supermarket
+66,48.10477368421053,11.578,71,28,Bakery,Hotel,Gym / Fitness Center,Supermarket,Indian Restaurant,Soccer Field,Pharmacy,Tram Station,Gym Pool,Taverna
+67,48.10477368421053,11.5929,72,26,Bus Stop,Supermarket,Hotel,Drugstore,Ice Cream Shop,Pie Shop,Office,German Restaurant,Greek Restaurant,Gym / Fitness Center
+68,48.10477368421053,11.607800000000001,73,3,Drugstore,Lounge,Supermarket,Gym / Fitness Center,Bus Stop,Liquor Store,Fast Food Restaurant,Hotel,IT Services,Museum
+69,48.10477368421053,11.6227,74,26,Supermarket,Bus Stop,Ice Cream Shop,Dessert Shop,Market,Bakery,Organic Grocery,German Restaurant,Diner,Plaza
+70,48.10477368421053,11.6376,75,3,Supermarket,Clothing Store,Asian Restaurant,Ice Cream Shop,Bakery,Drugstore,Shopping Mall,Seafood Restaurant,Mobile Phone Shop,Sushi Restaurant
+71,48.10477368421053,11.6525,76,3,Supermarket,Bus Stop,Clothing Store,Drugstore,Asian Restaurant,Ice Cream Shop,Seafood Restaurant,Shoe Store,Metro Station,Shopping Mall
+72,48.10477368421053,11.6674,77,25,Bus Stop,Beer Garden,Hotel,Opera House,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+73,48.10477368421053,11.6823,78,4,Memorial Site,Playground,ATM,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+74,48.10477368421053,11.6972,79,19,Bus Stop,Playground,Antique Shop,Business Service,Park,Optical Shop,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+75,48.11213157894737,11.4141,80,17,Rest Area,Athletics & Sports,ATM,Opera House,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+76,48.11213157894737,11.429,81,26,Hotel,Food & Drink Shop,Supermarket,Pastry Shop,Construction & Landscaping,Italian Restaurant,Deli / Bodega,Drugstore,Dessert Shop,Outdoor Supply Store
+77,48.11213157894737,11.4439,82,26,German Restaurant,Hotel,Italian Restaurant,Park,Gym / Fitness Center,Liquor Store,Sports Bar,Hardware Store,Department Store,Greek Restaurant
+78,48.11213157894737,11.4588,83,26,Greek Restaurant,German Restaurant,Shoe Store,Gym / Fitness Center,Bus Stop,Sports Bar,Hotel,Supermarket,Hardware Store,Italian Restaurant
+79,48.11213157894737,11.4737,84,0,Bakery,Bus Stop,Supermarket,Hotel,German Restaurant,ATM,Trattoria/Osteria,Sushi Restaurant,Steakhouse,Sandwich Place
+80,48.11213157894737,11.4886,85,19,Bus Stop,Food & Drink Shop,Pastry Shop,Metro Station,Sushi Restaurant,German Restaurant,Plaza,Bakery,Construction & Landscaping,Noodle House
+81,48.11213157894737,11.503499999999999,86,0,Bus Stop,Italian Restaurant,Bakery,Ice Cream Shop,Trattoria/Osteria,Supermarket,Gym / Fitness Center,Chinese Restaurant,Bank,Health & Beauty Service
+82,48.11213157894737,11.5184,87,0,Bus Stop,Asian Restaurant,Supermarket,Greek Restaurant,Ice Cream Shop,Gym / Fitness Center,Bakery,Brewery,Plaza,Playground
+83,48.11213157894737,11.5333,88,28,Hotel,Bus Stop,Bakery,Drugstore,Supermarket,Italian Restaurant,Greek Restaurant,Plaza,Tunnel,Athletics & Sports
+84,48.11213157894737,11.5482,89,26,Italian Restaurant,German Restaurant,Hotel,Falafel Restaurant,Doner Restaurant,BBQ Joint,Supermarket,Bakery,Climbing Gym,Middle Eastern Restaurant
+85,48.11213157894737,11.5631,90,27,German Restaurant,Bus Stop,Athletics & Sports,Ice Cream Shop,Lake,Taverna,Metro Station,Park,Beer Garden,Trail
+86,48.11213157894737,11.578,91,18,Hotel,Italian Restaurant,German Restaurant,Plaza,Bakery,Café,Supermarket,Bar,Ice Cream Shop,Indian Restaurant
+87,48.11213157894737,11.5929,92,26,Greek Restaurant,Supermarket,Bus Stop,Italian Restaurant,Plaza,Hotel,Ice Cream Shop,Café,Boarding House,German Restaurant
+88,48.11213157894737,11.607800000000001,93,26,Park,Bus Stop,Supermarket,Lounge,Chinese Restaurant,Asian Restaurant,Gym / Fitness Center,Metro Station,Baby Store,Greek Restaurant
+89,48.11213157894737,11.6227,94,28,Bus Stop,Trattoria/Osteria,Hotel,Ice Cream Shop,Pizza Place,Taverna,Stadium,Chinese Restaurant,Restaurant,Garden Center
+90,48.11213157894737,11.6376,95,26,Supermarket,Trattoria/Osteria,Soccer Field,Food & Drink Shop,Halal Restaurant,Park,Hockey Arena,Bavarian Restaurant,Turkish Restaurant,Stadium
+91,48.11213157894737,11.6525,96,0,Bus Stop,Turkish Restaurant,Food & Drink Shop,German Restaurant,Doner Restaurant,Restaurant,Discount Store,Supermarket,Metro Station,Italian Restaurant
+92,48.11213157894737,11.6674,97,19,Bus Stop,Chinese Restaurant,Track,Supermarket,Beer Garden,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+93,48.11213157894737,11.6823,98,19,Bus Stop,Chinese Restaurant,Italian Restaurant,Supermarket,German Restaurant,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+94,48.11213157894737,11.6972,99,0,Bus Stop,Ice Cream Shop,Light Rail Station,Café,Greek Restaurant,Mediterranean Restaurant,Bakery,Fried Chicken Joint,Costume Shop,Indian Restaurant
+95,48.11948947368421,11.4141,100,27,Scenic Lookout,Music Store,Italian Restaurant,German Restaurant,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+96,48.11948947368421,11.429,101,26,Italian Restaurant,Drugstore,German Restaurant,Deli / Bodega,Soccer Field,Greek Restaurant,Dessert Shop,Supermarket,ATM,Outlet Store
+97,48.11948947368421,11.4439,102,26,Mexican Restaurant,German Restaurant,Thai Restaurant,Construction & Landscaping,Auto Garage,Bistro,Supermarket,Liquor Store,Baby Store,Electronics Store
+98,48.11948947368421,11.4588,103,18,Hardware Store,Clothing Store,Baby Store,Shoe Store,Auto Garage,Mexican Restaurant,Nightclub,Outdoor Supply Store,Paper / Office Supplies Store,Palace
+99,48.11948947368421,11.4737,104,8,Supermarket,Bus Stop,Ice Cream Shop,Bank,Asian Restaurant,Doner Restaurant,Sandwich Place,German Restaurant,Sushi Restaurant,Lottery Retailer
+100,48.11948947368421,11.4886,105,0,Bus Stop,Greek Restaurant,Plaza,Residential Building (Apartment / Condo),Metro Station,Asian Restaurant,Tram Station,Supermarket,German Restaurant,ATM
+101,48.11948947368421,11.503499999999999,106,26,Ice Cream Shop,Bus Stop,Bank,Bakery,Light Rail Station,Beer Garden,German Restaurant,Supermarket,Lake,Chinese Restaurant
+102,48.11948947368421,11.5184,107,27,Bus Stop,Garden,Ice Cream Shop,Performing Arts Venue,Business Service,Sculpture Garden,Coffee Shop,Post Office,Plaza,Park
+103,48.11948947368421,11.5333,108,3,Hotel,Drugstore,Supermarket,Bakery,Ice Cream Shop,Plaza,Restaurant,Café,Italian Restaurant,Flower Shop
+104,48.11948947368421,11.5482,109,18,Italian Restaurant,Supermarket,German Restaurant,Café,Market,Seafood Restaurant,Vietnamese Restaurant,Gastropub,Bus Stop,Soccer Field
+105,48.11948947368421,11.5631,110,18,Café,Italian Restaurant,Bar,Plaza,German Restaurant,Ice Cream Shop,Asian Restaurant,Restaurant,Supermarket,Bakery
+106,48.11948947368421,11.578,111,18,Italian Restaurant,Pizza Place,Plaza,Bar,German Restaurant,Park,Drugstore,Café,Bakery,Greek Restaurant
+107,48.11948947368421,11.5929,112,26,Supermarket,Greek Restaurant,Hotel,Italian Restaurant,Burger Joint,Plaza,Restaurant,Drugstore,Gym / Fitness Center,Boarding House
+108,48.11948947368421,11.607800000000001,113,3,Nightclub,Supermarket,Greek Restaurant,Metro Station,Italian Restaurant,Bus Stop,Hotel,Bar,Gym / Fitness Center,Bakery
+109,48.11948947368421,11.6227,114,0,Bus Stop,Bakery,Metro Station,German Restaurant,Gas Station,Taverna,Plaza,Shopping Mall,Austrian Restaurant,Optical Shop
+110,48.11948947368421,11.6376,115,26,Park,Hotel,Bavarian Restaurant,Metro Station,German Restaurant,Bus Stop,Supermarket,Pool,Food & Drink Shop,Optical Shop
+111,48.11948947368421,11.6525,116,26,Supermarket,Drugstore,Pub,Italian Restaurant,Motel,Restaurant,Fried Chicken Joint,Plaza,Portuguese Restaurant,Outdoor Supply Store
+112,48.11948947368421,11.6674,117,8,Supermarket,Bakery,Fast Food Restaurant,Drugstore,Hotel,Ice Cream Shop,Bus Stop,Sandwich Place,Café,German Restaurant
+113,48.11948947368421,11.6823,118,19,Bus Stop,Hotel,Supermarket,Hardware Store,Italian Restaurant,Fast Food Restaurant,Sushi Restaurant,German Restaurant,ATM,Outdoors & Recreation
+114,48.11948947368421,11.6972,119,30,Ice Cream Shop,Light Rail Station,Bus Stop,Fried Chicken Joint,Indian Restaurant,Optical Shop,Park,Paper / Office Supplies Store,Palace,Outlet Store
+115,48.12684736842105,11.4141,120,27,German Restaurant,Furniture / Home Store,Buffet,Italian Restaurant,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+116,48.12684736842105,11.429,121,26,Light Rail Station,Hotel,BBQ Joint,Italian Restaurant,Soccer Field,Supermarket,Nature Preserve,Optical Shop,Palace,Outlet Store
+117,48.12684736842105,11.4439,122,26,German Restaurant,Mexican Restaurant,Park,Electronics Store,Wine Shop,Food & Drink Shop,Hotel,Bus Stop,Thai Restaurant,Supermarket
+118,48.12684736842105,11.4588,123,8,Men's Store,Supermarket,Bus Stop,ATM,Opera House,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+119,48.12684736842105,11.4737,124,8,Bus Stop,Supermarket,Ice Cream Shop,Bus Line,Bank,Doner Restaurant,Opera House,Palace,Outlet Store,Outdoors & Recreation
+120,48.12684736842105,11.4886,125,0,Bus Stop,Supermarket,Greek Restaurant,Drugstore,Shop & Service,Home Service,Residential Building (Apartment / Condo),Tram Station,Plaza,Bakery
+121,48.12684736842105,11.503499999999999,126,26,Bus Stop,Supermarket,Intersection,Laundromat,Gastropub,German Restaurant,Sushi Restaurant,Beer Garden,Greek Restaurant,Escape Room
+122,48.12684736842105,11.5184,127,26,Hardware Store,Supermarket,Garden,Lounge,German Restaurant,Tram Station,Gym,Doner Restaurant,Lake,Greek Restaurant
+123,48.12684736842105,11.5333,128,18,Bus Stop,German Restaurant,Music Venue,Café,Supermarket,Lounge,Rock Club,Nightclub,Gastropub,Steakhouse
+124,48.12684736842105,11.5482,129,18,German Restaurant,Italian Restaurant,Café,Vietnamese Restaurant,Nightclub,Bakery,Supermarket,Grocery Store,Bistro,Outdoor Sculpture
+125,48.12684736842105,11.5631,130,18,Café,Italian Restaurant,Bar,Ice Cream Shop,Vietnamese Restaurant,German Restaurant,Bavarian Restaurant,Restaurant,Asian Restaurant,Plaza
+126,48.12684736842105,11.578,131,18,Café,German Restaurant,Bar,Italian Restaurant,Hotel,Plaza,Cocktail Bar,Coffee Shop,Ice Cream Shop,French Restaurant
+127,48.12684736842105,11.5929,132,18,Italian Restaurant,Bakery,Plaza,Ice Cream Shop,French Restaurant,German Restaurant,Café,Bar,Supermarket,Hotel
+128,48.12684736842105,11.607800000000001,133,18,Hotel,German Restaurant,Café,Plaza,Spanish Restaurant,Vegetarian / Vegan Restaurant,Supermarket,Thai Restaurant,Gym / Fitness Center,Bar
+129,48.12684736842105,11.6227,134,26,Supermarket,Italian Restaurant,Doner Restaurant,Asian Restaurant,Bakery,Hotel,Pizza Place,Drugstore,Bus Stop,Gastropub
+130,48.12684736842105,11.6376,135,3,Supermarket,Tram Station,Bakery,Asian Restaurant,Eastern European Restaurant,Home Service,Bank,Park,Athletics & Sports,Hotel
+131,48.12684736842105,11.6525,136,8,Supermarket,Metro Station,Accessories Store,Bakery,Drugstore,Storage Facility,Home Service,Tram Station,Outdoors & Recreation,Outdoor Supply Store
+132,48.12684736842105,11.6674,137,26,Supermarket,German Restaurant,Bakery,Ice Cream Shop,Trattoria/Osteria,Furniture / Home Store,Garden Center,Motel,Café,Fast Food Restaurant
+133,48.12684736842105,11.6823,138,27,Garden Center,Italian Restaurant,Department Store,Doner Restaurant,Park,German Restaurant,ATM,Optical Shop,Palace,Outlet Store
+134,48.12684736842105,11.6972,139,3,Clothing Store,Drugstore,Furniture / Home Store,Café,Shoe Store,Mobile Phone Shop,Shopping Mall,Bookstore,Supermarket,Sushi Restaurant
+135,48.134205263157895,11.4141,140,27,Furniture / Home Store,Motel,Recreation Center,Steakhouse,Playground,Bistro,Climbing Gym,ATM,Office,Outlet Store
+136,48.134205263157895,11.429,141,26,Light Rail Station,BBQ Joint,Italian Restaurant,Supermarket,Big Box Store,Climbing Gym,German Restaurant,ATM,Optical Shop,Palace
+137,48.134205263157895,11.4439,142,0,Park,Bakery,Bus Stop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+138,48.134205263157895,11.4588,143,19,Bus Stop,Park,Ice Cream Shop,Hotel,Mobile Phone Shop,German Restaurant,Playground,Bakery,Poke Place,Office
+139,48.134205263157895,11.4737,144,19,Bus Stop,Park,Stables,Garden,Playground,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+140,48.134205263157895,11.4886,145,0,Supermarket,Bakery,Greek Restaurant,Drugstore,Bus Stop,Plaza,Shop & Service,Home Service,Tram Station,Optical Shop
+141,48.134205263157895,11.503499999999999,146,26,Supermarket,Bank,Gastropub,Plaza,Greek Restaurant,Pastry Shop,Fried Chicken Joint,Tanning Salon,Sushi Restaurant,Mobile Phone Shop
+142,48.134205263157895,11.5184,147,26,Supermarket,Bank,Tram Station,Hotel,Nightclub,Thai Restaurant,Caucasian Restaurant,Greek Restaurant,Sushi Restaurant,Hardware Store
+143,48.134205263157895,11.5333,148,18,Café,Hotel,Italian Restaurant,Music Venue,Ice Cream Shop,Asian Restaurant,Doner Restaurant,Pizza Place,German Restaurant,Bus Stop
+144,48.134205263157895,11.5482,149,18,Hotel,Café,German Restaurant,Italian Restaurant,Bavarian Restaurant,Asian Restaurant,Turkish Restaurant,Middle Eastern Restaurant,Pizza Place,Restaurant
+145,48.134205263157895,11.5631,150,18,Hotel,Café,German Restaurant,Cocktail Bar,Italian Restaurant,Afghan Restaurant,Indie Movie Theater,Bar,Ice Cream Shop,Camera Store
+146,48.134205263157895,11.578,151,18,Café,Bavarian Restaurant,Coffee Shop,Plaza,Cocktail Bar,Hotel,Italian Restaurant,German Restaurant,Steakhouse,Sporting Goods Shop
+147,48.134205263157895,11.5929,152,18,Italian Restaurant,Plaza,Bakery,French Restaurant,German Restaurant,Café,Ice Cream Shop,Beer Garden,Bar,Burger Joint
+148,48.134205263157895,11.607800000000001,153,18,Italian Restaurant,Plaza,German Restaurant,Supermarket,Hotel,Bakery,Indian Restaurant,Café,Portuguese Restaurant,Tram Station
+149,48.134205263157895,11.6227,154,26,Supermarket,Italian Restaurant,Hotel,Drugstore,Doner Restaurant,Gym / Fitness Center,Tram Station,Shopping Mall,Chinese Restaurant,Grocery Store
+150,48.134205263157895,11.6376,155,26,Bus Stop,Cafeteria,Drugstore,Tram Station,Light Rail Station,Park,Business Service,Eastern European Restaurant,Motorcycle Shop,Hotel
+151,48.134205263157895,11.6525,156,6,Hotel,Bus Stop,Hardware Store,Greek Restaurant,Business Service,Flower Shop,Paper / Office Supplies Store,Italian Restaurant,Accessories Store,Noodle House
+152,48.134205263157895,11.6674,157,28,Bus Stop,Hotel,Shopping Mall,Taverna,Metro Station,Coffee Shop,Auto Garage,Trattoria/Osteria,Paper / Office Supplies Store,Thai Restaurant
+153,48.134205263157895,11.6823,158,18,Hotel,Italian Restaurant,Café,Plaza,Clothing Store,Ice Cream Shop,Shoe Store,Bar,Perfume Shop,Performing Arts Venue
+154,48.134205263157895,11.6972,159,18,Clothing Store,Café,Hotel,Italian Restaurant,Plaza,Bus Stop,Shoe Store,Drugstore,Mobile Phone Shop,Metro Station
+155,48.14156315789474,11.4141,160,26,Supermarket,Steakhouse,Sandwich Place,German Restaurant,Drugstore,Climbing Gym,Pet Store,Bistro,Ice Cream Shop,Motel
+156,48.14156315789474,11.429,161,26,Supermarket,Sporting Goods Shop,Pizza Place,Hardware Store,Sandwich Place,Automotive Shop,Big Box Store,Pide Place,Italian Restaurant,Newsstand
+157,48.14156315789474,11.4439,162,26,Drugstore,Hotel,Automotive Shop,Italian Restaurant,Supermarket,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store
+158,48.14156315789474,11.4588,163,18,German Restaurant,Bus Stop,Ice Cream Shop,Hotel,Park,Bank,Bakery,Organic Grocery,Drugstore,Gym / Fitness Center
+159,48.14156315789474,11.4737,164,27,Skating Rink,German Restaurant,Tram Station,Fast Food Restaurant,Bus Stop,Automotive Shop,Pet Store,Liquor Store,Gym,Pizza Place
+160,48.14156315789474,11.4886,165,26,Supermarket,Tram Station,Italian Restaurant,Plaza,Bakery,Hostel,Park,Greek Restaurant,Storage Facility,Drugstore
+161,48.14156315789474,11.503499999999999,166,3,Supermarket,Bakery,Bank,Italian Restaurant,Doner Restaurant,Drugstore,Tram Station,Park,Ice Cream Shop,Organic Grocery
+162,48.14156315789474,11.5184,167,3,Supermarket,Tram Station,Drugstore,Bakery,Motorcycle Shop,Szechuan Restaurant,Rock Club,Salad Place,Business Service,Thai Restaurant
+163,48.14156315789474,11.5333,168,28,Hotel,Asian Restaurant,Tram Station,German Restaurant,Gym,Doner Restaurant,Indian Restaurant,Boutique,Steakhouse,Breakfast Spot
+164,48.14156315789474,11.5482,169,28,Hotel,Italian Restaurant,Café,Doner Restaurant,Bar,Bavarian Restaurant,Asian Restaurant,French Restaurant,Pizza Place,Office
+165,48.14156315789474,11.5631,170,18,Hotel,Café,Middle Eastern Restaurant,Plaza,Restaurant,Burger Joint,History Museum,Indie Movie Theater,Italian Restaurant,Ice Cream Shop
+166,48.14156315789474,11.578,171,18,Café,Plaza,Hotel,Cocktail Bar,German Restaurant,Italian Restaurant,Restaurant,Clothing Store,Coffee Shop,Bavarian Restaurant
+167,48.14156315789474,11.5929,172,18,Italian Restaurant,Hotel,German Restaurant,Restaurant,Art Museum,Tram Station,Japanese Restaurant,Mexican Restaurant,Burger Joint,Café
+168,48.14156315789474,11.607800000000001,173,18,Italian Restaurant,Supermarket,Restaurant,Indian Restaurant,Bakery,Drugstore,Greek Restaurant,Vietnamese Restaurant,Café,Gourmet Shop
+169,48.14156315789474,11.6227,174,26,Hotel,Supermarket,Gym,Gourmet Shop,Organic Grocery,German Restaurant,Café,Metro Station,Bakery,Athletics & Sports
+170,48.14156315789474,11.6376,175,30,Bus Stop,German Restaurant,Cafeteria,Business Service,Gym,Chinese Restaurant,Malay Restaurant,Fast Food Restaurant,Beer Garden,Organic Grocery
+171,48.14156315789474,11.6525,176,28,Hotel,Bus Stop,Italian Restaurant,Greek Restaurant,Park,Beer Garden,Racetrack,Hardware Store,Flower Shop,Supermarket
+172,48.14156315789474,11.6674,177,28,Racetrack,Bus Stop,Hotel,Thai Restaurant,Vietnamese Restaurant,Golf Course,Flea Market,Greek Restaurant,Stadium,Coffee Shop
+173,48.14156315789474,11.6823,178,28,Hotel,Golf Course,Restaurant,Gym / Fitness Center,Performing Arts Venue,Fast Food Restaurant,Café,German Restaurant,Comfort Food Restaurant,Modern European Restaurant
+174,48.14156315789474,11.6972,179,18,Café,Brewery,Gym / Fitness Center,Intersection,BBQ Joint,Monument / Landmark,Train Station,German Restaurant,Optical Shop,Outlet Store
+175,48.14892105263158,11.4141,180,0,Bakery,Bus Stop,Gym / Fitness Center,Supermarket,Schnitzel Restaurant,Greek Restaurant,Pizza Place,Liquor Store,German Restaurant,Italian Restaurant
+176,48.14892105263158,11.429,181,0,Bakery,Pide Place,Schnitzel Restaurant,Light Rail Station,Rest Area,Bus Stop,Supermarket,Pizza Place,Automotive Shop,Lake
+177,48.14892105263158,11.4439,182,8,Supermarket,Asian Restaurant,Drugstore,Bowling Alley,Italian Restaurant,Rental Car Location,Pet Store,Automotive Shop,Bus Stop,Optical Shop
+178,48.14892105263158,11.4588,183,18,Café,Italian Restaurant,Drugstore,Bakery,German Restaurant,Coffee Shop,Gym / Fitness Center,Fast Food Restaurant,Plaza,Clothing Store
+179,48.14892105263158,11.4737,184,26,Supermarket,Tram Station,Bus Stop,Bakery,Liquor Store,Clothing Store,Pet Store,Pizza Place,Restaurant,Coffee Shop
+180,48.14892105263158,11.4886,185,26,Supermarket,Design Studio,Dog Run,Gym / Fitness Center,Hostel,Auto Garage,Storage Facility,Italian Restaurant,Furniture / Home Store,Hotel
+181,48.14892105263158,11.503499999999999,186,18,Italian Restaurant,Café,Drugstore,Athletics & Sports,Supermarket,Coffee Shop,Bank,Bakery,Salad Place,Motel
+182,48.14892105263158,11.5184,187,26,Park,Light Rail Station,Supermarket,Trail,German Restaurant,Drugstore,Salad Place,Shopping Mall,Beer Garden,Skate Park
+183,48.14892105263158,11.5333,188,18,Italian Restaurant,German Restaurant,Café,Bakery,Indian Restaurant,Supermarket,Ice Cream Shop,Pizza Place,Shipping Store,Gym
+184,48.14892105263158,11.5482,189,18,Italian Restaurant,Hotel,German Restaurant,Vietnamese Restaurant,Café,Restaurant,Asian Restaurant,Doner Restaurant,Greek Restaurant,Trattoria/Osteria
+185,48.14892105263158,11.5631,190,18,Café,Asian Restaurant,Middle Eastern Restaurant,Vietnamese Restaurant,History Museum,Art Museum,Japanese Restaurant,Italian Restaurant,Burger Joint,Restaurant
+186,48.14892105263158,11.578,191,18,Café,Bar,Plaza,Italian Restaurant,Ice Cream Shop,Breakfast Spot,Restaurant,French Restaurant,Cocktail Bar,Bagel Shop
+187,48.14892105263158,11.5929,192,18,Italian Restaurant,Café,German Restaurant,River,Ice Cream Shop,Beer Garden,Surf Spot,Supermarket,Cafeteria,Snack Place
+188,48.14892105263158,11.607800000000001,193,18,Italian Restaurant,Plaza,Park,Bakery,Restaurant,Shopping Mall,Supermarket,Organic Grocery,Beer Garden,Gourmet Shop
+189,48.14892105263158,11.6227,194,18,Italian Restaurant,Hotel,Metro Station,Café,Drugstore,Plaza,Gym / Fitness Center,Supermarket,Gym,Beer Garden
+190,48.14892105263158,11.6376,195,30,Bus Stop,German Restaurant,Ice Cream Shop,Chinese Restaurant,Supermarket,Organic Grocery,Beer Garden,Greek Restaurant,Malay Restaurant,Bank
+191,48.14892105263158,11.6525,196,0,Bus Stop,Supermarket,German Restaurant,Child Care Service,Bakery,Wine Shop,Light Rail Station,Bed & Breakfast,Restaurant,Dog Run
+192,48.14892105263158,11.6674,197,0,Bus Stop,Racetrack,Golf Course,Bakery,Stadium,Bed & Breakfast,Vietnamese Restaurant,Dog Run,Restaurant,Flea Market
+193,48.14892105263158,11.6823,198,28,Hotel,Italian Restaurant,Supermarket,Light Rail Station,Clothing Store,Modern European Restaurant,Restaurant,Bakery,Diner,Golf Course
+194,48.14892105263158,11.6972,199,27,German Restaurant,Brewery,Thai Restaurant,Modern European Restaurant,Soccer Field,Train Station,Office,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+195,48.15627894736842,11.4141,200,28,Bakery,Post Office,Hotel,Light Rail Station,Greek Restaurant,German Restaurant,Supermarket,Photography Studio,Gym / Fitness Center,Indian Restaurant
+196,48.15627894736842,11.429,201,28,Light Rail Station,Hotel,Bakery,Lake,Train Station,Rest Area,Supermarket,Soccer Field,Nature Preserve,Music Venue
+197,48.15627894736842,11.4439,202,8,Supermarket,Drugstore,German Restaurant,Bowling Alley,Yoga Studio,Pharmacy,Pet Store,Bakery,Train Station,Bus Stop
+198,48.15627894736842,11.4588,203,26,Supermarket,Theater,Yoga Studio,Fried Chicken Joint,Theme Restaurant,Gym / Fitness Center,Italian Restaurant,Bus Stop,German Restaurant,Trattoria/Osteria
+199,48.15627894736842,11.4737,204,8,Supermarket,Bus Stop,Bakery,Doner Restaurant,Gym Pool,Thrift / Vintage Store,Rental Car Location,Palace,Outlet Store,Outdoors & Recreation
+200,48.15627894736842,11.4886,205,30,Fountain,Monument / Landmark,Canal,Historic Site,Lake,Park,Bus Stop,Nightclub,Music Venue,Palace
+201,48.15627894736842,11.503499999999999,206,18,Café,Italian Restaurant,German Restaurant,Greek Restaurant,Palace,Ice Cream Shop,Tram Station,Bus Stop,Supermarket,Canal
+202,48.15627894736842,11.5184,207,18,Italian Restaurant,Tram Station,German Restaurant,Greek Restaurant,Plaza,Light Rail Station,Ice Cream Shop,Canal,Tennis Court,Bakery
+203,48.15627894736842,11.5333,208,18,Italian Restaurant,Bakery,Plaza,German Restaurant,Ice Cream Shop,Park,Indian Restaurant,Pizza Place,Restaurant,Bus Stop
+204,48.15627894736842,11.5482,209,18,Italian Restaurant,German Restaurant,Vietnamese Restaurant,Hotel,Bar,Restaurant,Plaza,Organic Grocery,Middle Eastern Restaurant,Bakery
+205,48.15627894736842,11.5631,210,18,Bar,Café,Asian Restaurant,Trattoria/Osteria,German Restaurant,Vietnamese Restaurant,Falafel Restaurant,Mediterranean Restaurant,Italian Restaurant,Gastropub
+206,48.15627894736842,11.578,211,18,Café,Bar,Ice Cream Shop,Italian Restaurant,Pizza Place,Restaurant,Bakery,Breakfast Spot,Vietnamese Restaurant,Trattoria/Osteria
+207,48.15627894736842,11.5929,212,18,Bar,Trattoria/Osteria,Café,Comedy Club,Bus Stop,Beer Garden,German Restaurant,Hotel,Playground,Convenience Store
+208,48.15627894736842,11.607800000000001,213,18,Plaza,Tram Station,Bus Stop,Café,Hostel,Tennis Court,Organic Grocery,German Restaurant,Trattoria/Osteria,Athletics & Sports
+209,48.15627894736842,11.6227,214,18,Italian Restaurant,Gym / Fitness Center,Hotel,Plaza,Asian Restaurant,Café,Beer Garden,Bus Stop,Water Park,Pharmacy
+210,48.15627894736842,11.6376,215,0,Drugstore,Bus Stop,Italian Restaurant,Bank,Water Park,Bakery,Pharmacy,Greek Restaurant,Park,Indian Restaurant
+211,48.15627894736842,11.6525,216,18,Light Rail Station,Wine Shop,Café,Home Service,Music Venue,Music Store,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+212,48.15627894736842,11.6674,217,25,Home Service,Bus Stop,Park,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+213,48.15627894736842,11.6823,218,26,Supermarket,Thai Restaurant,IT Services,Italian Restaurant,Hotel,Drugstore,Diner,Clothing Store,German Restaurant,Palace
+214,48.15627894736842,11.6972,219,27,German Restaurant,Thai Restaurant,Soccer Field,Drive-in Theater,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+215,48.16363684210526,11.4141,220,28,Bakery,Hotel,German Restaurant,Photography Studio,Bistro,Soccer Field,Supermarket,Post Office,Nature Preserve,Office
+216,48.16363684210526,11.429,221,8,Bus Stop,Light Rail Station,Soccer Field,Train Station,Supermarket,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+217,48.16363684210526,11.4439,222,0,Bakery,Hotel,Train Station,Pharmacy,Supermarket,Bus Stop,Nature Preserve,Music Store,Palace,Outlet Store
+218,48.16363684210526,11.4588,223,28,German Restaurant,Hotel,Park,Fried Chicken Joint,Castle,Bakery,Greek Restaurant,Tennis Court,Indian Restaurant,Italian Restaurant
+219,48.16363684210526,11.4737,224,0,Bakery,Bus Stop,Park,Light Rail Station,Drugstore,Taverna,Athletics & Sports,Hostel,Beer Garden,Discount Store
+220,48.16363684210526,11.4886,225,28,Hotel,Taverna,Historic Site,Organic Grocery,Canal,Palace,Rest Area,Vegetarian / Vegan Restaurant,Light Rail Station,Bus Stop
+221,48.16363684210526,11.503499999999999,226,18,Bus Stop,Light Rail Station,Café,Canal,Gastropub,Steakhouse,Palace,Beer Garden,Greek Restaurant,Supermarket
+222,48.16363684210526,11.5184,227,18,Theater,Steakhouse,Park,Canal,Light Rail Station,Supermarket,Café,German Restaurant,Restaurant,Tennis Court
+223,48.16363684210526,11.5333,228,18,Café,German Restaurant,Italian Restaurant,Trattoria/Osteria,Gastropub,Gym,Supermarket,Hotel,Pool,Beer Garden
+224,48.16363684210526,11.5482,229,26,Hotel,Supermarket,Italian Restaurant,Middle Eastern Restaurant,Bakery,Bar,Event Space,Performing Arts Venue,Hill,Church
+225,48.16363684210526,11.5631,230,18,Italian Restaurant,Trattoria/Osteria,Supermarket,Bar,Café,Mexican Restaurant,Greek Restaurant,Vietnamese Restaurant,German Restaurant,Park
+226,48.16363684210526,11.578,231,18,Italian Restaurant,Café,Thai Restaurant,Plaza,Vietnamese Restaurant,Indian Restaurant,Hotel,Movie Theater,Organic Grocery,Supermarket
+227,48.16363684210526,11.5929,232,18,Bar,German Restaurant,Trattoria/Osteria,Italian Restaurant,Burger Joint,Comedy Club,Hotel,Thai Restaurant,Afghan Restaurant,Historic Site
+228,48.16363684210526,11.607800000000001,233,18,Park,Tennis Court,Bathing Area,Bavarian Restaurant,Volleyball Court,Café,Beer Garden,ATM,Optical Shop,Outdoors & Recreation
+229,48.16363684210526,11.6227,234,0,Bus Stop,Tunnel,Bar,Tram Station,Bakery,Asian Restaurant,German Restaurant,Beer Garden,Hotel,Gas Station
+230,48.16363684210526,11.6376,235,26,Supermarket,Bakery,Drugstore,Tram Station,Bus Stop,Lake,German Restaurant,Park,Asian Restaurant,Ice Cream Shop
+231,48.16363684210526,11.6525,236,26,Astrologer,German Restaurant,Lottery Retailer,Light Rail Station,Italian Restaurant,Bus Stop,Café,Supermarket,Palace,Outlet Store
+232,48.16363684210526,11.6674,237,25,Bus Stop,Home Service,Garden Center,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+233,48.16363684210526,11.6823,238,27,Botanical Garden,Dog Run,Snack Place,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+234,48.16363684210526,11.6972,239,23,Drive-in Theater,ATM,Pastry Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+235,48.170994736842104,11.4141,240,4,Juice Bar,Light Rail Station,Soccer Field,Playground,Dog Run,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+236,48.170994736842104,11.429,241,4,Playground,Juice Bar,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+237,48.170994736842104,11.4439,242,17,Rest Area,Campground,Garden Center,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+238,48.170994736842104,11.4588,243,28,Hotel,German Restaurant,Park,Soccer Field,Gastropub,Beer Garden,Greek Restaurant,Fried Chicken Joint,Bakery,Breakfast Spot
+239,48.170994736842104,11.4737,244,26,Bakery,Italian Restaurant,Light Rail Station,Athletics & Sports,Supermarket,Park,Newsstand,Organic Grocery,Paper / Office Supplies Store,Music School
+240,48.170994736842104,11.4886,245,26,Italian Restaurant,Athletics & Sports,Bus Stop,Palace,Light Rail Station,Bakery,Organic Grocery,Supermarket,German Restaurant,Vegetarian / Vegan Restaurant
+241,48.170994736842104,11.503499999999999,246,19,Bus Stop,Park,Gym,Hostel,Tram Station,Trattoria/Osteria,Beer Garden,Opera House,Outlet Store,Outdoors & Recreation
+242,48.170994736842104,11.5184,247,30,German Restaurant,Furniture / Home Store,Restaurant,Bus Stop,Supermarket,Café,Theater,Tram Station,Trattoria/Osteria,Park
+243,48.170994736842104,11.5333,248,18,Café,German Restaurant,Trattoria/Osteria,Pool,Supermarket,Hotel,Tram Station,Soccer Field,Taverna,Flea Market
+244,48.170994736842104,11.5482,249,27,Concert Hall,Restaurant,Stadium,Beer Garden,Scenic Lookout,Event Space,Hill,German Restaurant,General Entertainment,Athletics & Sports
+245,48.170994736842104,11.5631,250,27,Restaurant,Italian Restaurant,Park,Pizza Place,German Restaurant,Beer Garden,Trail,Hockey Arena,Bank,Taverna
+246,48.170994736842104,11.578,251,18,Hotel,Vietnamese Restaurant,Italian Restaurant,Supermarket,Plaza,Drugstore,Restaurant,Park,Café,Bus Stop
+247,48.170994736842104,11.5929,252,28,Hotel,Restaurant,Bakery,Supermarket,Café,Spa,Soccer Field,German Restaurant,Vietnamese Restaurant,Farmers Market
+248,48.170994736842104,11.607800000000001,253,27,Park,Indie Theater,Track,Health & Beauty Service,Athletics & Sports,Beer Garden,Stadium,Nature Preserve,Organic Grocery,Palace
+249,48.170994736842104,11.6227,254,28,Bakery,Theater,Gas Station,Hotel,Bus Stop,German Restaurant,Bar,ATM,Optical Shop,Palace
+250,48.170994736842104,11.6376,255,26,Tram Station,Supermarket,Hotel,Ice Cream Shop,Bus Stop,Bowling Alley,German Restaurant,Greek Restaurant,Gym / Fitness Center,Bar
+251,48.170994736842104,11.6525,256,28,Astrologer,Wine Shop,Light Rail Station,Hotel,Concert Hall,Bus Stop,Restaurant,German Restaurant,Optical Shop,Paper / Office Supplies Store
+252,48.170994736842104,11.6674,257,25,Farmers Market,Bus Stop,ATM,Public Bathroom,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+253,48.170994736842104,11.6823,258,11,Dog Run,ATM,Pastry Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+254,48.178352631578946,11.4141,260,30,Lottery Retailer,Juice Bar,Light Rail Station,Pharmacy,German Restaurant,Bus Stop,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+255,48.178352631578946,11.429,261,4,Brewery,Intersection,Playground,Juice Bar,ATM,Opera House,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+256,48.178352631578946,11.4439,262,19,Castle,Bus Stop,Campground,Garden Center,Rest Area,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+257,48.178352631578946,11.4588,263,28,Breakfast Spot,Beer Garden,Italian Restaurant,Hotel,Soccer Field,Gastropub,Business Service,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+258,48.178352631578946,11.4737,264,8,Bus Stop,Supermarket,Soccer Field,Light Rail Station,Gastropub,Bakery,Newsstand,Nightclub,Palace,Outlet Store
+259,48.178352631578946,11.4886,265,19,Bus Stop,Turkish Restaurant,Hardware Store,Gym / Fitness Center,Bakery,Italian Restaurant,German Restaurant,Supermarket,Athletics & Sports,Doner Restaurant
+260,48.178352631578946,11.503499999999999,266,3,Supermarket,Bakery,Drugstore,Bus Stop,Hotel,Sandwich Place,Big Box Store,Motel,German Restaurant,Asian Restaurant
+261,48.178352631578946,11.5184,267,3,Bakery,Supermarket,Ice Cream Shop,Food,Gym,Metro Station,Fast Food Restaurant,Drugstore,Trattoria/Osteria,German Restaurant
+262,48.178352631578946,11.5333,268,3,Supermarket,Café,Bakery,Drugstore,Electronics Store,Fast Food Restaurant,Clothing Store,Asian Restaurant,Gym / Fitness Center,Greek Restaurant
+263,48.178352631578946,11.5482,269,27,Museum,Restaurant,Concert Hall,Stadium,Sandwich Place,Convenience Store,Metro Station,Falafel Restaurant,Theater,Mini Golf
+264,48.178352631578946,11.5631,270,27,Greek Restaurant,Museum,Plaza,Italian Restaurant,Pizza Place,Rental Car Location,Gift Shop,Tram Station,Moving Target,Soccer Field
+265,48.178352631578946,11.578,271,26,Gastropub,Bus Stop,Italian Restaurant,Supermarket,Track,German Restaurant,Café,Greek Restaurant,Beer Garden,Park
+266,48.178352631578946,11.5929,272,28,Hotel,Italian Restaurant,Café,Restaurant,Bank,Spa,Bakery,Lounge,Supermarket,Bistro
+267,48.178352631578946,11.607800000000001,273,27,Indie Theater,Athletics & Sports,Breakfast Spot,Café,Metro Station,Beer Garden,Shipping Store,Gym / Fitness Center,Park,Bank
+268,48.178352631578946,11.6227,274,28,Hotel,Soccer Field,Office,German Restaurant,Athletics & Sports,Drugstore,Restaurant,Bus Stop,Park,Shoe Store
+269,48.178352631578946,11.6376,275,3,Bus Stop,Supermarket,Soccer Field,Bakery,Hotel,Restaurant,Greek Restaurant,Clothing Store,Coffee Shop,Bar
+270,48.178352631578946,11.6525,276,0,Bus Stop,Concert Hall,Bakery,ATM,Park,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+271,48.178352631578946,11.6972,279,22,Golf Course,Construction & Landscaping,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+272,48.18571052631579,11.4141,280,5,Business Service,ATM,RV Park,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+273,48.18571052631579,11.429,281,27,Athletics & Sports,Sporting Goods Shop,Intersection,Lake,Caucasian Restaurant,ATM,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+274,48.18571052631579,11.4439,282,30,Dog Run,Furniture / Home Store,Lake,Castle,Bus Stop,ATM,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+275,48.18571052631579,11.4588,283,28,Sporting Goods Shop,Hotel,Bus Stop,German Restaurant,Shopping Mall,Park,Italian Restaurant,Bakery,Poke Place,Post Office
+276,48.18571052631579,11.4737,284,3,Supermarket,Shopping Mall,Sporting Goods Shop,Forest,Bakery,Gym,Hotel,Bus Stop,Pharmacy,Trattoria/Osteria
+277,48.18571052631579,11.4886,285,25,Bus Stop,Turkish Restaurant,Forest,Bakery,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+278,48.18571052631579,11.503499999999999,286,3,Bakery,Supermarket,Bus Stop,Hotel,Sandwich Place,Drugstore,Soccer Field,Motel,Food,Fast Food Restaurant
+279,48.18571052631579,11.5184,287,3,Bakery,Supermarket,Ice Cream Shop,Trattoria/Osteria,Gym,Lottery Retailer,Metro Station,Drugstore,Fast Food Restaurant,German Restaurant
+280,48.18571052631579,11.5333,288,3,Supermarket,Fast Food Restaurant,Electronics Store,Clothing Store,Drugstore,Bank,Falafel Restaurant,Thai Restaurant,Sauna / Steam Room,Beer Store
+281,48.18571052631579,11.5482,289,28,Hotel,Bus Stop,Restaurant,Boarding House,Supermarket,Home Service,Greek Restaurant,Food & Drink Shop,Fast Food Restaurant,Hotel Bar
+282,48.18571052631579,11.5631,290,3,Doner Restaurant,Drugstore,Bakery,Café,Plaza,Supermarket,Greek Restaurant,Bus Stop,Ice Cream Shop,Motorcycle Shop
+283,48.18571052631579,11.578,291,3,Bakery,Italian Restaurant,Hotel,Bus Stop,Clothing Store,Burger Joint,Café,Gastropub,German Restaurant,Thai Restaurant
+284,48.18571052631579,11.5929,292,28,Hotel,Italian Restaurant,Clothing Store,Restaurant,Furniture / Home Store,Supermarket,Park,Bakery,Asian Restaurant,Bus Stop
+285,48.18571052631579,11.607800000000001,293,28,Fast Food Restaurant,Breakfast Spot,Tennis Court,Bakery,Shipping Store,Stadium,Hotel,Beach,Greek Restaurant,Metro Station
+286,48.18571052631579,11.6227,294,27,Fast Food Restaurant,Tennis Court,Park,Stadium,Chinese Restaurant,Soccer Field,Beach,Greek Restaurant,Beer Garden,ATM
+287,48.18571052631579,11.6376,295,0,Supermarket,Bus Stop,Restaurant,Asian Restaurant,Beach,Liquor Store,Wine Shop,Bakery,Greek Restaurant,Hotel
+288,48.18571052631579,11.6525,296,0,Bus Stop,Insurance Office,Cafeteria,Mediterranean Restaurant,Bakery,Bed & Breakfast,Light Rail Station,Supermarket,Thai Restaurant,Asian Restaurant
+289,48.18571052631579,11.6674,297,24,Trail,Gastropub,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+290,48.18571052631579,11.6823,298,24,Trail,ATM,Park,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+291,48.18571052631579,11.6972,299,22,Construction & Landscaping,Golf Course,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+292,48.19306842105263,11.4141,300,20,Hotel,Lake,Gastropub,Mini Golf,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+293,48.19306842105263,11.429,301,29,Botanical Garden,RV Park,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+294,48.19306842105263,11.4439,302,25,Dog Run,Bus Stop,ATM,Park,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+295,48.19306842105263,11.4588,303,3,Trattoria/Osteria,Hotel,Bakery,Drugstore,Supermarket,Bavarian Restaurant,Sporting Goods Shop,Light Rail Station,Italian Restaurant,Tennis Court
+296,48.19306842105263,11.4737,304,3,Drugstore,Sporting Goods Shop,Shopping Mall,Forest,Hotel,Food & Drink Shop,Supermarket,Trattoria/Osteria,Outdoor Supply Store,Outdoor Sculpture
+297,48.19306842105263,11.4886,305,19,Bus Stop,Nature Preserve,Train Station,Outdoor Supply Store,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Sculpture,Organic Grocery
+298,48.19306842105263,11.503499999999999,306,8,Supermarket,Pet Store,Garden Center,Soccer Field,Fast Food Restaurant,Automotive Shop,Train Station,Auto Garage,ATM,Outdoors & Recreation
+299,48.19306842105263,11.5184,307,8,Bus Stop,Indian Restaurant,Light Rail Station,Supermarket,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+300,48.19306842105263,11.5333,308,28,Outlet Store,Hotel,Automotive Shop,Lake,Trattoria/Osteria,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outdoors & Recreation
+301,48.19306842105263,11.5482,309,28,Bus Stop,Hotel,Cosmetics Shop,Trattoria/Osteria,Bistro,Boarding House,Food & Drink Shop,IT Services,Bus Line,Hardware Store
+302,48.19306842105263,11.5631,310,3,Ice Cream Shop,Doner Restaurant,Bakery,Automotive Shop,Pet Store,Eastern European Restaurant,Café,Drugstore,Thai Restaurant,Supermarket
+303,48.19306842105263,11.578,311,0,Bus Stop,Metro Station,Italian Restaurant,Bakery,Clothing Store,Trattoria/Osteria,Shopping Mall,Thai Restaurant,Fast Food Restaurant,Lounge
+304,48.19306842105263,11.5929,312,3,Big Box Store,Bus Stop,Electronics Store,Asian Restaurant,Mediterranean Restaurant,Gym / Fitness Center,Paper / Office Supplies Store,Fast Food Restaurant,Mobile Phone Shop,Sandwich Place
+305,48.19306842105263,11.607800000000001,313,3,Fast Food Restaurant,Music Venue,Hotel,Big Box Store,Greek Restaurant,Asian Restaurant,Video Game Store,Concert Hall,Metro Station,Shoe Store
+306,48.19306842105263,11.6227,314,3,Fast Food Restaurant,Doner Restaurant,Chinese Restaurant,Train Station,Metro Station,Comedy Club,Supermarket,ATM,Palace,Outlet Store
+307,48.19306842105263,11.6376,315,26,Italian Restaurant,Supermarket,Bus Stop,Bakery,Beach,Skate Park,German Restaurant,Thai Restaurant,Paper / Office Supplies Store,Hotel
+308,48.19306842105263,11.6525,316,19,Bus Stop,German Restaurant,Thai Restaurant,Bakery,Mediterranean Restaurant,Gym,Café,Cafeteria,Office,Paper / Office Supplies Store
+309,48.19306842105263,11.6674,317,27,Beer Garden,German Restaurant,Gastropub,Lake,Nudist Beach,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+310,48.19306842105263,11.6823,318,27,Beer Garden,Bath House,Gastropub,Trail,German Restaurant,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+311,48.20042631578947,11.4141,320,20,Lake,Hotel,Gastropub,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+312,48.20042631578947,11.429,321,1,Fried Chicken Joint,German Restaurant,Playground,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop,Opera House
+313,48.20042631578947,11.4439,322,19,Park,Tunnel,Bus Stop,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+314,48.20042631578947,11.4588,323,28,Bavarian Restaurant,Bakery,Tennis Court,Hotel,Supermarket,Trattoria/Osteria,ATM,Opera House,Outdoors & Recreation,Outdoor Supply Store
+315,48.20042631578947,11.4737,324,27,Furniture / Home Store,Forest,Train Station,ATM,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+316,48.20042631578947,11.4886,325,28,Hotel,Automotive Shop,Hostel,Lake,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+317,48.20042631578947,11.503499999999999,326,28,American Restaurant,Health & Beauty Service,Hotel,Hostel,Bus Stop,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store
+318,48.20042631578947,11.5184,327,8,Indian Restaurant,Lottery Retailer,American Restaurant,Light Rail Station,Bus Stop,Supermarket,Lake,ATM,Organic Grocery,Paper / Office Supplies Store
+319,48.20042631578947,11.5333,328,8,Supermarket,Bus Stop,Drugstore,Lake,Indian Restaurant,Trattoria/Osteria,Electronics Store,Light Rail Station,Liquor Store,Planetarium
+320,48.20042631578947,11.5482,329,8,Bus Stop,Supermarket,Tennis Court,Café,Bus Line,Drugstore,Trattoria/Osteria,ATM,Optical Shop,Outdoors & Recreation
+321,48.20042631578947,11.5631,330,0,Bakery,Metro Station,Tennis Court,Food & Drink Shop,Bus Stop,Supermarket,Greek Restaurant,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+322,48.20042631578947,11.578,331,0,Bus Stop,Gym / Fitness Center,German Restaurant,Bakery,Lounge,Concert Hall,Metro Station,Mexican Restaurant,Paper / Office Supplies Store,Palace
+323,48.20042631578947,11.5929,332,0,Bus Stop,Supermarket,Gym / Fitness Center,Rental Car Location,Ice Cream Shop,Bakery,Liquor Store,Mediterranean Restaurant,Organic Grocery,Pet Store
+324,48.20042631578947,11.607800000000001,333,26,Greek Restaurant,Pub,German Restaurant,Music Venue,Soccer Field,Concert Hall,Hotel,Food & Drink Shop,Supermarket,Outdoors & Recreation
+325,48.20042631578947,11.6227,334,26,Pub,Intersection,Outdoor Sculpture,Soccer Field,Snack Place,Supermarket,Doner Restaurant,Opera House,Outlet Store,Outdoors & Recreation
+326,48.20042631578947,11.6376,335,20,Lake,Hotel,Soccer Field,Italian Restaurant,German Restaurant,ATM,Opera House,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+327,48.20042631578947,11.6525,336,0,Bakery,German Restaurant,Lake,Nature Preserve,Soccer Field,Bus Stop,Supermarket,Auto Dealership,Outlet Store,Outdoors & Recreation
+328,48.20042631578947,11.6674,337,27,General Entertainment,Nature Preserve,Lake,Rock Climbing Spot,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+329,48.20042631578947,11.6823,338,9,Farm,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+330,48.20042631578947,11.6972,339,1,Stables,German Restaurant,ATM,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+331,48.20778421052631,11.4141,340,22,Golf Course,Sushi Restaurant,Insurance Office,Lake,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+332,48.20778421052631,11.429,341,27,General Entertainment,Stables,Fried Chicken Joint,Moving Target,Museum,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+333,48.20778421052631,11.4439,342,27,Park,Health & Beauty Service,Soccer Field,Beer Garden,Tunnel,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+334,48.20778421052631,11.4588,343,8,Supermarket,Light Rail Station,Hotel,Tunnel,Bus Stop,Nature Preserve,Opera House,Palace,Outlet Store,Outdoors & Recreation
+335,48.20778421052631,11.4737,344,0,Forest,Supermarket,Bakery,Bus Stop,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+336,48.20778421052631,11.4886,345,19,Bus Stop,Intersection,Automotive Shop,Food,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+337,48.20778421052631,11.503499999999999,346,19,Bus Stop,Insurance Office,Auto Garage,ATM,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+338,48.20778421052631,11.5184,347,16,Italian Restaurant,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+339,48.20778421052631,11.5333,348,18,Café,Italian Restaurant,Plaza,Bus Stop,ATM,Optical Shop,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+340,48.20778421052631,11.5482,349,8,Bus Stop,Drugstore,Supermarket,Italian Restaurant,Bus Line,Gym Pool,Noodle House,Nightclub,Paper / Office Supplies Store,Palace
+341,48.20778421052631,11.5631,350,8,Supermarket,Bus Stop,Falafel Restaurant,Clothing Store,Furniture / Home Store,Burger Joint,Gas Station,Food & Drink Shop,Greek Restaurant,Shipping Store
+342,48.20778421052631,11.578,351,25,Bus Stop,Shipping Store,Furniture / Home Store,Rental Car Location,Metro Station,ATM,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+343,48.20778421052631,11.5929,352,3,Supermarket,Bus Stop,Ice Cream Shop,Rental Car Location,Pet Store,Trattoria/Osteria,Gym / Fitness Center,Pizza Place,Organic Grocery,Bakery
+344,48.20778421052631,11.607800000000001,353,26,Supermarket,Greek Restaurant,Ice Cream Shop,Hotel,Bus Stop,Soccer Field,German Restaurant,Pub,Italian Restaurant,Park
+345,48.20778421052631,11.6227,354,27,Snack Place,Pub,Intersection,Convenience Store,Soccer Field,Outdoor Sculpture,Bus Station,Metro Station,Train Station,Beer Garden
+346,48.20778421052631,11.6376,355,10,Park,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+347,48.20778421052631,11.6525,356,19,IT Services,Gym,Soccer Field,Cafeteria,Bus Stop,ATM,Opera House,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+348,48.20778421052631,11.6674,357,19,Bus Stop,IT Services,Gym,Cafeteria,ATM,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+349,48.20778421052631,11.6823,358,10,Park,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+350,48.20778421052631,11.6972,359,17,Stables,Rest Area,ATM,Nudist Beach,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+351,48.215142105263155,11.4141,360,22,Golf Course,Insurance Office,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+352,48.215142105263155,11.429,361,27,General Entertainment,Stables,ATM,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop,Opera House
+353,48.215142105263155,11.4439,362,21,Music Store,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+354,48.215142105263155,11.4588,363,8,Light Rail Station,Supermarket,Lottery Retailer,Bus Stop,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+355,48.215142105263155,11.4737,364,30,Lottery Retailer,German Restaurant,Furniture / Home Store,Bus Stop,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+356,48.215142105263155,11.4886,365,25,Bus Stop,Lottery Retailer,Intersection,Food,Home Service,Optical Shop,Park,Paper / Office Supplies Store,Palace,Outlet Store
+357,48.215142105263155,11.503499999999999,366,18,BBQ Joint,Insurance Office,Bus Line,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store
+358,48.215142105263155,11.5184,367,27,Motorcycle Shop,BBQ Joint,Auto Workshop,Greek Restaurant,German Restaurant,Lake,ATM,Organic Grocery,Palace,Outlet Store
+359,48.215142105263155,11.5333,368,0,Bus Stop,Bakery,Café,Ice Cream Shop,Plaza,Light Rail Station,Greek Restaurant,German Restaurant,Supermarket,Bus Line
+360,48.215142105263155,11.5482,369,0,Supermarket,Bus Stop,Bakery,Ice Cream Shop,Farmers Market,Italian Restaurant,Bus Line,Plaza,Gastropub,Metro Station
+361,48.215142105263155,11.5631,370,8,Supermarket,Pharmacy,Plaza,Fast Food Restaurant,Clothing Store,Drugstore,Thai Restaurant,Bus Stop,Falafel Restaurant,Burger Joint
+362,48.215142105263155,11.578,371,19,Bus Stop,Gift Shop,Athletics & Sports,Business Service,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+363,48.215142105263155,11.5929,372,19,Sports Club,Soccer Field,Bus Stop,Road,ATM,Office,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+364,48.215142105263155,11.607800000000001,373,27,Bakery,Soccer Stadium,Train Station,German Restaurant,Music Store,Opera House,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+365,48.215142105263155,11.6227,374,27,Lounge,Soccer Stadium,Beer Garden,Hill,Café,Train Station,Metro Station,Restaurant,Sports Club,Sports Bar
+366,48.215142105263155,11.6376,375,19,Bus Stop,Outlet Store,Hill,Outdoor Sculpture,Ski Area,ATM,Palace,Outdoors & Recreation,Outdoor Supply Store,Organic Grocery
+367,48.215142105263155,11.6525,376,2,Furniture / Home Store,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+368,48.215142105263155,11.6674,377,0,Bus Stop,Bus Line,Café,Supermarket,Bakery,IT Services,Newsstand,Organic Grocery,Paper / Office Supplies Store,Palace
+369,48.215142105263155,11.6823,378,4,Café,Playground,Park,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+370,48.2225,11.4141,380,27,Tennis Court,Flower Shop,ATM,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+371,48.2225,11.429,381,27,Taverna,Lake,Fish Market,Gourmet Shop,ATM,Opera House,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+372,48.2225,11.4439,382,20,Lake,German Restaurant,ATM,Park,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery
+373,48.2225,11.4588,383,3,Supermarket,Coffee Shop,Shoe Store,Café,Italian Restaurant,Food,Drugstore,Pharmacy,Clothing Store,Fast Food Restaurant
+374,48.2225,11.4737,384,3,Bakery,Supermarket,Ice Cream Shop,Pharmacy,Pet Store,Electronics Store,Shoe Store,Shopping Mall,Food,Furniture / Home Store
+375,48.2225,11.4886,385,18,Racetrack,Italian Restaurant,Miscellaneous Shop,Lottery Retailer,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+376,48.2225,11.503499999999999,386,14,Bus Line,RV Park,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+377,48.2225,11.5184,387,0,Cocktail Bar,Motorcycle Shop,Auto Workshop,Greek Restaurant,Bus Stop,ATM,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+378,48.2225,11.5333,388,19,Intersection,Café,Bus Stop,Cocktail Bar,ATM,Organic Grocery,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation
+379,48.2225,11.5482,389,27,Beer Garden,Intersection,Gastropub,Dog Run,Opera House,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+380,48.2225,11.5631,390,26,Bar,Recreation Center,Plaza,Supermarket,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+381,48.2225,11.578,391,27,Gift Shop,Forest,Trail,ATM,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+382,48.2225,11.5929,392,6,Hotel,Road,ATM,Opera House,Paper / Office Supplies Store,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture
+383,48.2225,11.607800000000001,393,6,Hotel,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+384,48.2225,11.6227,394,27,Soccer Stadium,Lounge,Sports Club,Restaurant,Sporting Goods Shop,Sports Bar,Soccer Field,Bistro,Beer Garden,Gift Shop
+385,48.2225,11.6376,395,19,Outlet Store,Intersection,Italian Restaurant,Bus Stop,ATM,Optical Shop,Paper / Office Supplies Store,Palace,Outdoors & Recreation,Outdoor Supply Store
+386,48.2225,11.6525,396,2,Furniture / Home Store,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
+387,48.2225,11.6674,397,28,Hotel,Butcher,Gas Station,Supermarket,Café,Restaurant,Gelato Shop,Bakery,Bus Stop,Bus Line
+388,48.2225,11.6823,398,28,Bakery,German Restaurant,Hotel,Trattoria/Osteria,Plaza,Light Rail Station,Gastropub,Butcher,Restaurant,Lake
+389,48.2225,11.6972,399,15,Miscellaneous Shop,ATM,Office,Palace,Outlet Store,Outdoors & Recreation,Outdoor Supply Store,Outdoor Sculpture,Organic Grocery,Optical Shop
